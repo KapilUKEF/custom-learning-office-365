@@ -218,7 +218,8 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Custom"      
+      "Source": "Custom",
+      "SubCategories": []     
     }
   ],
   "Audiences": [
