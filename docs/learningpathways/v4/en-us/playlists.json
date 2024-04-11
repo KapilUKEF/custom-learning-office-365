@@ -1,3 +1,19 @@
 [
-  
+    {
+    "Id": "743cd848-9b16-4985-a65d-e93e032c2dba",
+    "Title": "Creating a Champion Program",
+    "Image": "images/playlists/items.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "adadb5a3-4003-4b4e-b265-9b7444e5fa98",
+    "SubjectId": "",
+    "Source": "UKEF",
+    "CatId": "3c2fefbe-18d3-4ecd-8cf6-93e2f086c257",
+    "Description": "Drive adoption of your Office 365 services with these best practices",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "a1d1af3b-9e5e-40aa-bbe7-ed6c9d219208"     
+    ]
+  }
 ]
