@@ -220,6 +220,15 @@
       "SubjectId": "",
       "Source": "Custom",
       "SubCategories": []     
+    },
+    {
+      "Id": "509cd62d-1f41-48f7-8ee1-b55979950779",
+      "Name": "Data Quality",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []     
     }
   ],
   "Audiences": [
